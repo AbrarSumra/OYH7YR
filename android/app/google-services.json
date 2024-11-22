@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "125855074900",
+    "project_id": "ubixstar-assignment-fbae7",
+    "storage_bucket": "ubixstar-assignment-fbae7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125855074900:android:d965dd1c1f207d22d53bc1",
+        "android_client_info": {
+          "package_name": "com.ubixstar_assignment.ubixstar_assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4Me3M-j9LR0foJhpeoCLgNswIaJYkGYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
